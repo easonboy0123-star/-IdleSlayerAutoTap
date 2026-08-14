@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Idle Slayer Auto Tap</string>
+    <string name="service_description">Detects the configured target area and performs a single tap when the target is detected.</string>
+</resources>
